@@ -2,8 +2,19 @@
 
 ## Requisitos
 
-- Node.js (versión recomendada: >= 14.x)
-- npm (gestor de paquetes que viene con Node.js)
+Antes de comenzar, asegúrate de tener instalado lo siguiente:
+
+- **Node.js**: versión recomendada `>= 16.14.0` (preferiblemente `v18.x`, LTS)
+- **npm**: versión recomendada `>= 8.5.0`
+
+> Estas versiones aseguran compatibilidad con `react-scripts@5`, `react@18`, `tailwindcss@3.4.1` y `mongoose@8`.
+
+Puedes verificar tu versión actual ejecutando:
+
+```bash
+node -v
+npm -v
+````
 
 ## Descargar Repositorio
 
